@@ -143,7 +143,7 @@ Include step-by-step implementation instructions and recommended naming conventi
 
 ## Usecase 5: Word Document Reporting
 
-**Download the file: q2_2026_business_operations_report.docx**
+**Download the file: <a href="./q2_2026_business_operations_report.docx" download>q2_2026_business_operations_report.docx</a>**
 
 ### Bad Prompt
 
@@ -196,6 +196,8 @@ End with 3 actionable recommendations for management
 * Guides Copilot toward a high-quality executive-style output
 
 ## Usecase 6: Excel Analysis
+
+**Download the file: <a href="./q2_2026_sales_dashboard_data.xlsx" download>q2_2026_sales_dashboard_data.xlsx</a>**
 
 ### Bad Prompt
 
